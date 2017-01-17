@@ -4118,6 +4118,15 @@
 	</assignedcategory>
 </channel>	
 
+	<channel>
+	<cname>NRJ TV</cname>
+	<imageurl>http://www.nrjweb.be/images/NRJ-Hits-Tv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>french</category>
+	</assignedcategory>
+</channel>
+	
 <channel>
 	<cname>NRJ 12</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/nn/nrj12.png</imageurl>
@@ -4331,6 +4340,17 @@
  	<category>sports</category>
 	</assignedcategory>
 </channel>
+	
+	<channel>
+	<cname>Abu Dhabi Sports 4</cname>
+	<imageurl>http://ulango.tv/uploads/channels/11085/logo_abu%20dhabi%20sports%204.png</imageurl>
+	<enabled>True</enabled>
+	<enabled>True</enabled>
+	<assignedcategory>
+ 	<category>sports</category>
+	</assignedcategory>
+</channel>
+	
 <channel>
 	<cname>Abu Dhabi Extra HD</cname>
 	<imageurl>http://s22.postimg.org/pqerg9qbh/yes.png</imageurl>
@@ -5327,8 +5347,18 @@
 	</assignedcategory>
 </channel>	
 
-<channel>
+	<channel>
 	<cname>France 24</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>france</category>
+	</assignedcategory>
+</channel>
+	
+	
+<channel>
+	<cname>France 24 Arabic</cname>
 	<imageurl>http://s19.postimg.org/bgysugyyn/france24arabic.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -5920,7 +5950,7 @@
 	<imageurl>https://3.bp.blogspot.com/-EWuV5AMKY7o/V9QZCpjKjaI/AAAAAAAAAiE/x-QeVjHpzuc6YMcJt1XMyqB_0p4ZgSUHQCLcB/s640/on-sport-channel-frequency-nilesat.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>news</category>
+	<category>sport</category>
 	<category>egypt</category>
 	</assignedcategory>
 </channel>
@@ -7642,8 +7672,8 @@
     </assignedcategory>
 </channel>	
 <channel>
-	<cname>TV5 Monde Orient</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/tt/tv5_monde_orient.png</imageurl>
+	<cname>TV5 Monde Europe</cname>
+	<imageurl>http://tvron.net/static/canal/tv5-monde-europe.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>french</category>
@@ -7723,7 +7753,8 @@
 	<assignedcategory>
 	<category>French</category>
     </assignedcategory>
-</channel>	
+</channel>
+	
 <channel>
 	<cname>SRF 1</cname>
 	<imageurl>http://www.lyngsat-logo.com/logo/tv/ss/srf_1_ch.png</imageurl>
@@ -8116,7 +8147,8 @@
 	<imageurl></imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>new</category>
+	<category>drama</category>	
+        <category>new</category>
 	</assignedcategory>
 </channel>
 <channel>
@@ -8140,6 +8172,7 @@
 	<imageurl></imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
+	<category>drama</category>	
 	<category>new</category>
 	</assignedcategory>
 </channel>
